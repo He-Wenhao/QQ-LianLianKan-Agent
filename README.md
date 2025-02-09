@@ -11,7 +11,7 @@
 1. **如何设置 Python 环境？**  
    运行以下命令安装依赖：  
    ```bash
-   pip install pyautogui pywin32 keyboard matplotlib numpy opencv-python json5
+   pip install pyautogui pywin32 keyboard matplotlib numpy opencv-python json
    ```
 
 2. **如何设置 `config.py`？**  

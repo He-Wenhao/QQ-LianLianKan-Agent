@@ -1,6 +1,6 @@
 # 演示（Demo）
 演示视频可在 `demo` 文件夹中找到。
-
+![lianliankan-demo-ezgif com-video-to-gif-converter (3)](https://github.com/user-attachments/assets/04eda813-a96b-4dd7-b2e6-cfd7201ca570)
 
 # 如何运行（在 Windows 上）
 1. 以管理员身份打开 `cmd`。
